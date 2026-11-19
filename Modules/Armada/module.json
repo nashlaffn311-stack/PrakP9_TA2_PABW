@@ -1,0 +1,11 @@
+{
+    "name": "Armada",
+    "alias": "armada",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Armada\\Providers\\ArmadaServiceProvider"
+    ],
+    "files": []
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Tiket",
+    "alias": "tiket",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Tiket\\Providers\\TiketServiceProvider"
+    ],
+    "files": []
+}

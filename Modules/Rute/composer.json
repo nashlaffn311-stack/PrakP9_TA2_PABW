@@ -1,0 +1,30 @@
+{
+    "name": "nwidart/rute",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Rute\\": "app/",
+            "Modules\\Rute\\Database\\Factories\\": "database/factories/",
+            "Modules\\Rute\\Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Modules\\Rute\\Tests\\": "tests/"
+        }
+    }
+}

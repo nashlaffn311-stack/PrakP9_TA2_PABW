@@ -1,0 +1,11 @@
+{
+    "name": "Rute",
+    "alias": "rute",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Rute\\Providers\\RuteServiceProvider"
+    ],
+    "files": []
+}
